@@ -40,9 +40,9 @@ elif name == "momo":
 
 elif name == "sana":
     if weihei == "weight/w":
-        data = "45/sana"
+        data = "45/sana/w"
     elif weihei == "height/h":
-        data = "162/sana"
+        data = "162/sana/h"
     else:
         data = "-1/nodata/-1"
 
